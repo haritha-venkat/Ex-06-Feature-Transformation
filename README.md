@@ -76,7 +76,7 @@ plt.show()
 ![image](https://user-images.githubusercontent.com/121285701/233553596-88dca919-cfc4-439c-bbf2-6b27e4193cea.png)
 ![image](https://user-images.githubusercontent.com/121285701/233553660-8c3f460a-2fc8-4795-b00f-21250768bd42.png)
 ![image](https://user-images.githubusercontent.com/121285701/233553704-694fe860-40e6-48a9-a0cd-4438b4dccca2.png)
-![image](https://user-images.githubusercontent.com/121285701/233553760-e5654911-5781-4698-a778-334cc8dfe07e.png)
+![image](https://user-images.githubusercontent.com/121285701/233555011-48ad3d8d-5df6-47dd-991b-1d4998875728.png)
 ## Log Transformation
 ![image](https://user-images.githubusercontent.com/121285701/233553831-527be46e-b397-4536-9b58-e7c76afaade4.png)
 ## Reciprocal transformation
