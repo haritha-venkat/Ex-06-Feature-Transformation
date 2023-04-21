@@ -1,4 +1,4 @@
-## Ex-06-Feature-Transformation
+# Ex-06-Feature-Transformation
 # AIM
 
 To read the given data and perform Feature Transformation process and save the data to a file.
@@ -79,4 +79,14 @@ plt.show()
 ![image](https://user-images.githubusercontent.com/121285701/233553760-e5654911-5781-4698-a778-334cc8dfe07e.png)
 ## Log Transformation
 ![image](https://user-images.githubusercontent.com/121285701/233553831-527be46e-b397-4536-9b58-e7c76afaade4.png)
-## 
+## Reciprocal transformation
+![image](https://user-images.githubusercontent.com/121285701/233554018-0402d3f7-e869-4adb-b992-4a035ad14d40.png)
+## SquareRoot Transformation
+![image](https://user-images.githubusercontent.com/121285701/233554129-8a163add-1e44-4101-a497-e98d45252172.png)
+## Power Transformation
+![image](https://user-images.githubusercontent.com/121285701/233554205-a448147e-1a58-4e53-bf1a-78604e16c6f2.png)
+![image](https://user-images.githubusercontent.com/121285701/233554230-db2b4cb6-6ea0-486a-b4e6-b0746ca40aec.png)
+## Quantile Transformation
+![image](https://user-images.githubusercontent.com/121285701/233554309-b70139d3-7668-43d9-a400-faa39a1a21fc.png)
+## RESULT:
+Thus the Feature Transformation for the given datasets had been executed successfully
